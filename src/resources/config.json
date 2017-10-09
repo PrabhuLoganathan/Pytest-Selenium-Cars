@@ -1,0 +1,24 @@
+{
+  "main": {
+    "browserName": "Chrome",
+    "implicitlyWaitDelay": 10,
+    "explicitlyWaitDelay": 30,
+    "language": "ru",
+    "pathToDriver": {
+      "geckoLinux": "../../../resources/drivers/linux64_geckodriver",
+      "chromeLinux": "../../../resources/drivers/linux64_chromedriver",
+      "geckoWin32": "../../../resources/drivers/win32_geckodriver.exe",
+      "geckoWin64": "../../../resources/drivers/win64_geckodriver.exe",
+      "chromeWin32": "../../../resources/drivers/win32_chromedriver.exe"
+    }
+  },
+
+  "cars": {
+    "url": {
+      "mainPage": "https://www.cars.com/",
+      "carPage": "",
+      "trimPage": "",
+      "comparePage": "https://www.cars.com/research/compare/"
+    }
+  }
+}
