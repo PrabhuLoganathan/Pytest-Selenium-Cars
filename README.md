@@ -1,4 +1,4 @@
-The test was a part of automatization test course. The test uses Selenium WebDriver and PyTest and implements Singleton and PageObject patterns.
+The test was a part of test automation course. The test uses Selenium WebDriver and PyTest and implements Singleton and PageObject patterns.
 
 Test scenario:
 1) Open main page http://cars.com
