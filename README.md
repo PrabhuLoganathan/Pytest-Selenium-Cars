@@ -1,3 +1,5 @@
+The test was a part of automatization test course. The test uses Selenium WebDriver and PyTest and implements Singleton and PageObject patterns.
+
 Test scenario:
 1) Open main page http://cars.com
 2) Open tab "Read Spec & Reviews"
